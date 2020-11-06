@@ -1,0 +1,13 @@
+property,value
+dx,500
+dt, 60
+A, 23000
+k, 15
+u, 5
+B, 1.2
+ct, 2.1
+ph, 0.2
+Pi,3560
+sim_time, 2400
+n, 12
+prod_blocks," 2 50, 7 -85"
